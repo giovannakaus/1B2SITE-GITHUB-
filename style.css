@@ -4,7 +4,7 @@ header{
 }
 
 .caixa{
-    position:absolute;
+    position:relative;
     width: 940px;/*largura da caixa*/
     margin: 0 auto;
 }
@@ -15,4 +15,14 @@ nav{
     right: 0;
     
 }
-nav 1
+nav li{
+    display: inline ;
+    margin: 0 0 0 15px;/*espaçamento extern*/
+}
+
+nav a{
+    text-transform: uppercase;/*letras maiúscula*/
+    color: #df57d86b;/* cor das letras rosas*/
+    font-weight: bold; /*fonyr nergrito*/
+    font-size
+}
