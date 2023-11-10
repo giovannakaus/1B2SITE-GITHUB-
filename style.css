@@ -23,6 +23,7 @@ nav li{
 nav a{
     text-transform: uppercase;/*letras maiúscula*/
     color: #df57d86b;/* cor das letras rosas*/
-    font-weight: bold; /*fonyr nergrito*/
-    font-size
+    font-weight: bold; /*fonte nergrito*/
+    font-size: 22px; /*tamanho a fonte*/
+    text-decoration: none;/* retirar o sublinado do texto*/
 }
